@@ -8,10 +8,11 @@ just one click the next time you experience a wave of worry or the weight of str
 
 <h3 align="center"> Preview </h3>
 
-<br> <h4> Home Screen </h4>
 
 ![WhatsApp Image 2022-10-16 at 15 15 32](https://user-images.githubusercontent.com/102166679/196234078-08df4502-6706-4253-b86a-3295edefd2b0.jpeg)
 
-<br> <h4> Home Screen </h4>
-
 ![WhatsApp Image 2022-10-16 at 15 14 31](https://user-images.githubusercontent.com/102166679/196234216-fc36ed47-41db-4774-a418-279e58727c4c.jpeg)
+
+![WhatsApp Image 2022-10-16 at 15 14 29(1)](https://user-images.githubusercontent.com/102166679/196234878-f3ba7045-ac82-4ba7-bb9e-d06db36834a6.jpeg)
+
+![WhatsApp Image 2022-10-16 at 15 14 31](https://user-images.githubusercontent.com/102166679/196234946-6787c74c-a614-4236-b9a5-bc88203d7810.jpeg)
