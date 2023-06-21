@@ -6,6 +6,11 @@ all of the above, there isn't a one-size-fits-all method for self-care. Finding 
 AtmanBliss assist you in achieving mental and physical balance. You may thus access a calmer state of mind with
 just one click the next time you experience a wave of worry or the weight of stress. like physically carrying a therapist in your back pocket
 
+<h3>
+<a href="https://www.linkedin.com/posts/smilewithkhushi_android-compose-camp-2022-activity-6994680630852661249-Scm5?utm_source=share&utm_medium=member_desktop"> Click here to preview the complete App </a>
+</h3>
+  <br>
+  
 <h3> Preview </h3>
 
 <img src="https://user-images.githubusercontent.com/102166679/196234078-08df4502-6706-4253-b86a-3295edefd2b0.jpeg" width=200px>
